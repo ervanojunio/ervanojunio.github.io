@@ -1,0 +1,31 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "WF7992LU33.com.bcadigital.blu.dev",
+        "paths": ["*"]
+      },
+      {
+        "appID": "WF7992LU33.com.bcadigital.blu.stg2",
+        "paths": ["*"]
+      },
+      {
+        "appID": "WF7992LU33.com.bcadigital.blu.stg1",
+        "paths": ["*"]
+      },
+      {
+        "appID": "9TK7M9M979.com.bcadigital.blu.uat",
+        "paths": ["*"]
+      },
+      {
+        "appID": "WF7992LU33.com.bcadigital.blu.rls",
+        "paths": ["*"]
+      },
+      {
+        "appID": "9TK7M9M979.com.bcadigital.blu",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
